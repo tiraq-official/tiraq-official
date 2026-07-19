@@ -1,5 +1,5 @@
 # ⚡ tiraq-official
-<img src="https://raw.githubusercontent.com/tiraq-official/tiraq-official/main/image.png" alt="tiraq banner" width="100%" />
+<img src="https://raw.githubusercontent.com/tiraq-official/tiraq-official/refs/heads/main/main.png" alt="tiraq banner" width="100%" />
 <p align="left">
   <img src="https://img.shields.io/badge/Environment-Hyprland-00bfff?style=flat-square" alt="Hyprland" />
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
