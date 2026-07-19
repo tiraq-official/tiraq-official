@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
 
-A Class 12 student passionate about Android Open Source Project (AOSP), Linux, and open-source development. Currently learning Android ROM development, device bring-up, kernel customization, and everything that comes with it.
+A student passionate about Android Open Source Project (AOSP), Linux, and open-source development. Currently learning Android ROM development, device bring-up, kernel customization, and everything that comes with it.
 
 ---
 
