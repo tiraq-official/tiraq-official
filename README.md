@@ -47,18 +47,7 @@ Big Formula 1 enthusiast.
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiraq-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiraq-official&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiraq-official&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
 
 ## 🌐 Connect
 
