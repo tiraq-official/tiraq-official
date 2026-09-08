@@ -24,13 +24,6 @@ Currently exploring:
 - 🐧 Linux customization
 - ⚙️ System optimization
 
-
-<p>
-<img src="https://img.shields.io/badge/Environment-Hyprland-00bfff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux"/>
-</p>
-
-
 </td>
 
 <td width="40%" valign="top">
