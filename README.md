@@ -21,8 +21,6 @@ Currently exploring:
 
 - 📱 Android ROM Development
 - 🌳 Device Tree & Kernel Development
-- 🐧 Linux customization
-- ⚙️ System optimization
 
 </td>
 
