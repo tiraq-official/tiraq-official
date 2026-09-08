@@ -8,27 +8,19 @@
 
 <br>
 
-<table>
-<tr>
+<div align="center">
 
 
 ##  About Me
 
-Hi am saptak,a student passionate about **Android Open Source Project (AOSP)**, **Linux**, and **open-source development**.
+</div>
 
-Currently exploring:
+Hi! I'm Tiraq, also known as Saptak Maji — a student and open-source enthusiast passionate about Android ROM development, Linux customization, and low-level system tweaking.
 
-- 📱 Android ROM Development
-- 🌳 Device Tree & Kernel Development
+<br>
 
-</td>
+Most of my time is spent diving into the Android Open Source Project ecosystem — building device trees, customizing kernels, and learning the ins and outs of Android bring-up
 
-
-
-</td>
-
-</tr>
-</table>
 
 
 ---
