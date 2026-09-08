@@ -26,7 +26,7 @@ Currently exploring:
 
 <td width="40%" valign="top">
 
-<img src="./assets/city.png" width="200%"/>
+<img src="./assets/city.png" width="250%"/>
 
 </td>
 
