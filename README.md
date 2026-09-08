@@ -11,7 +11,6 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
 
 ##  About Me
 
@@ -24,9 +23,7 @@ Currently exploring:
 
 </td>
 
-<td width="40%" valign="top">
 
-<img src="./assets/city.png" width="250%"/>
 
 </td>
 
@@ -60,6 +57,8 @@ Currently exploring:
 
 
 ---
+
+<img src="./assets/city.png" width="250%"/>
 
 ## 🎯 Interests
 
