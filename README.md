@@ -50,7 +50,7 @@ Most of my time is spent diving into the Android Open Source Project ecosystem â
 
 ---
 
-<img src="./assets/city.png" width="250%"/>
+<img src="./assets/city.gif" width="100%"/>
 
 ## ðŸŽ¯ Interests
 
