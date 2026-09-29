@@ -69,54 +69,53 @@
 
 ## <img src="https://slackmojis.com/emojis/21788-eagle_sunglasses/download" width="32" alt="" /> Beyond the Code
 
-## <img src="https://slackmojis.com/emojis/85415-bunmusicq/download" width="35"/> Music 
+## <img src="https://slackmojis.com/emojis/85415-bunmusicq/download" width="35" alt="" /> Music
 
 <table>
   <tr>
-    <td valign="left">
-      <img src="https://i.gifer.com/Z23N.gif" width="100">
+    <td valign="top">
+      <img src="https://i.gifer.com/Z23N.gif" width="100" alt="music gif" />
     </td>
-    <td valign="right">
+    <td valign="top">
 
 ### Favorite Artists:
 
-**Shreya Ghoshal** • **Arijit Singh** • **Atif Aslam** • **The Fatrat** • **Zutomayo**
+**Shreya Ghoshal** • **Arijit Singh** • **Atif Aslam** • **TheFatRat** • **Zutomayo**
 
-
+    </td>
   </tr>
 </table>
 
-
-## <img src="https://slackmojis.com/emojis/91735-pikasmirk_rightq/download" width="35"/> Racing 
+## <img src="https://slackmojis.com/emojis/91735-pikasmirk_rightq/download" width="35" alt="" /> Racing
 
 <table>
   <tr>
-    <td valign="left">
-      <img src="http://www.catsuka.com/interf/vignettes_news/gif/senna_intheheartofbrazil.gif" width="200">
+    <td valign="top">
+      <img src="http://www.catsuka.com/interf/vignettes_news/gif/senna_intheheartofbrazil.gif" width="200" alt="senna gif" />
     </td>
-    <td valign="right">
+    <td valign="top">
 
-### Favorite drivers: 
+### Favorite drivers:
 
-🇬🇧 **Lewis Hamilton** • 🇳🇱 **Max Verstappen**  • 🇲🇨 **Charles Leclerc**
+🇬🇧 **Lewis Hamilton** • 🇳🇱 **Max Verstappen** • 🇲🇨 **Charles Leclerc**
 
-
+    </td>
   </tr>
 </table>
 
 ---
 
-## Arsenal <img src="https://slackmojis.com/emojis/116818-yapcat/download" width="30"/>
+## Arsenal <img src="https://slackmojis.com/emojis/116818-yapcat/download" width="30" alt="" />
 
 | | |
 |:---|:---|
-|  **OS** | Arch Linux · Kernel 7.1.11-arch1 |
-|  **WM** | Hyprland v0.56.2 |
-|  **Shell** | Fish v4.8.1 |
-|  **CPU** | Intel Core i5-14600K · 14C/20T · 5.3 GHz |
-|  **GPU** | Intel UHD Graphics 770 |
-|  **Memory** | 16 GiB RAM + 4 GiB zram |
-|  **Storage** | 500GB WD Blue SN5100 NVMe · Btrfs |
+| **OS** | Arch Linux · Kernel 7.1.11-arch1 |
+| **WM** | Hyprland v0.56.2 |
+| **Shell** | Fish v4.8.1 |
+| **CPU** | Intel Core i5-14600K · 14C/20T · 5.3 GHz |
+| **GPU** | Intel UHD Graphics 770 |
+| **Memory** | 16 GiB RAM + 4 GiB zram |
+| **Storage** | 500 GB WD Blue SN5100 NVMe · Btrfs |
 
 ---
 
