@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://slackmojis.com/emojis/19011-statistics/download" width="30" alt="" /> GitHub Stats
 
 <div align="center">
 
