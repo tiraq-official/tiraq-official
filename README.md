@@ -45,16 +45,12 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tiraq-official&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiraq-official&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="Top languages" />
+<img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 
 <br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=tiraq-official&hide_border=true&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiraq-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 <br>
 
