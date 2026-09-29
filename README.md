@@ -59,48 +59,46 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiraq-official/tiraq-official/output/github-contribution-grid-snake-dark.svg" />
-  <img width="95%" src="https://raw.githubusercontent.com/tiraq-official/tiraq-official/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiraq-official/tiraq-official/output/github-contribution-grid-snake-dark.svg" />
+<img width="95%" src="https://raw.githubusercontent.com/tiraq-official/tiraq-official/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </picture>
 
 </div>
 
 ---
 
-## <img src="https://slackmojis.com/emojis/21788-eagle_sunglasses/download" width="32" alt="" /> Beyond the Code
-
 ## <img src="https://slackmojis.com/emojis/85415-bunmusicq/download" width="35" alt="" /> Music
 
 <table>
-  <tr>
-    <td valign="top">
-      <img src="https://i.gifer.com/Z23N.gif" width="100" alt="music gif" />
-    </td>
-    <td valign="top">
+<tr>
+<td valign="top" width="40%">
+<img src="https://i.gifer.com/Z23N.gif" width="100" alt="music gif" />
+</td>
+<td valign="top" width="60%">
 
 ### Favorite Artists:
 
 **Shreya Ghoshal** • **Arijit Singh** • **Atif Aslam** • **TheFatRat** • **Zutomayo**
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## <img src="https://slackmojis.com/emojis/91735-pikasmirk_rightq/download" width="35" alt="" /> Racing
 
 <table>
-  <tr>
-    <td valign="top">
-      <img src="http://www.catsuka.com/interf/vignettes_news/gif/senna_intheheartofbrazil.gif" width="200" alt="senna gif" />
-    </td>
-    <td valign="top">
+<tr>
+<td valign="top" width="50%">
+<img src="http://www.catsuka.com/interf/vignettes_news/gif/senna_intheheartofbrazil.gif" width="200" alt="senna gif" />
+</td>
+<td valign="top" width="50%">
 
 ### Favorite drivers:
 
 🇬🇧 **Lewis Hamilton** • 🇳🇱 **Max Verstappen** • 🇲🇨 **Charles Leclerc**
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -124,7 +122,7 @@
 <div align="center">
 
 <a href="https://t.me/lost_traveller">
-  <img src="https://img.shields.io/badge/Telegram-@lost__traveller-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="https://img.shields.io/badge/Telegram-@lost__traveller-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 </div>
