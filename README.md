@@ -1,37 +1,28 @@
 <div align="center">
 
-<img src="./assets/welcome.png" width="100%" />
+<img src="./assets/welcome.png" width="100%" alt="Welcome banner" />
+
+# <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30" alt="wave" /> Hey there!
+
+**saptak** aka **tiraq** · student · India <img src="https://slackmojis.com/emojis/68791-narutorun/download" width="28" alt="naruto run" />
+
+**Android ROM dev · Linux ricer · Kernel tinkerer · Security enthusiast**
+
+*Still learning. Still breaking things. Still building.*
 
 </div>
-
-<br>
-
-<div align="center">
-
-<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey there!</h1>
-</div>
-
-I am saptak aka tiraq.I am a student from India<img src="https://slackmojis.com/emojis/68791-narutorun/download" width="30"/>. 
-<br>
-<br>
-I am into many things like Android ROM development,Linux customization,building device trees, customizing kernels, and learning the ins and outs of how system works.
-<br>
-I am also interested in security research and ethical hacking. <img src="https://slackmojis.com/emojis/47507-pepe-hacker/download" width="20"/>
-
-<br>
 
 ---
 
-# Environment Stack <img src="https://slackmojis.com/emojis/12618-party_blob/download" width="30"/>
+## <img src="https://slackmojis.com/emojis/12618-party_blob/download" width="28" alt="" /> Environment Stack
 
 <div align="center">
 
-
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logoColor=white" />
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
-<br>
+
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -39,12 +30,20 @@ I am also interested in security research and ethical hacking. <img src="https:/
 
 </div>
 
+---
+
+## <img src="https://slackmojis.com/emojis/116818-yapcat/download" width="28" alt="" /> What I Do
+
+- <b>Android ROM development</b> — building device trees and shipping ROMs
+- <b>Kernel customization</b> — tweaking, building and breaking kernels
+- <b>Linux customization</b> — ricing my daily driver (see Arsenal below)
+- <b>Security research & ethical hacking</b> — figuring out how things break <img src="https://slackmojis.com/emojis/47507-pepe-hacker/download" width="20" alt="pepe hacker" />
 
 ---
 
-# What else I like?
+## <img src="https://slackmojis.com/emojis/21788-eagle_sunglasses/download" width="32" alt="" /> Beyond the Code
 
-## Music <img src="https://slackmojis.com/emojis/21788-eagle_sunglasses/download" width="35"/>
+## <img src="https://slackmojis.com/emojis/85415-bunmusicq/download" width="35"/> Music 
 
 <table>
   <tr>
@@ -62,7 +61,7 @@ I am also interested in security research and ethical hacking. <img src="https:/
 </table>
 
 
-## Racing <img src="https://slackmojis.com/emojis/91735-pikasmirk_rightq/download" width="35"/>
+## <img src="https://slackmojis.com/emojis/91735-pikasmirk_rightq/download" width="35"/> Racing 
 
 <table>
   <tr>
@@ -81,7 +80,7 @@ I am also interested in security research and ethical hacking. <img src="https:/
 
 ---
 
-# Arsenal <img src="https://slackmojis.com/emojis/116818-yapcat/download" width="30"/>
+## Arsenal <img src="https://slackmojis.com/emojis/116818-yapcat/download" width="30"/>
 
 | | |
 |:---|:---|
@@ -95,16 +94,15 @@ I am also interested in security research and ethical hacking. <img src="https:/
 
 ---
 
-# Social <img src="https://slackmojis.com/emojis/145846-aww_hell_nahh/download" width="40"/>
+## <img src="https://slackmojis.com/emojis/145846-aww_hell_nahh/download" width="35" alt="" /> Find Me
 
-<p>
+<div align="center">
 
 <a href="https://t.me/lost_traveller">
-<img src="https://img.shields.io/badge/Telegram-@lost__traveller-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-@lost__traveller-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-</p>
-
+</div>
 
 ---
 
@@ -113,7 +111,5 @@ I am also interested in security research and ethical hacking. <img src="https:/
 ```
 Music • Code • Linux • Open Source
 ```
-
- *Still learning. Still breaking things. Still building.*
 
 </div>
