@@ -41,6 +41,32 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tiraq-official&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiraq-official&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="Top languages" />
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=tiraq-official&hide_border=true&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
+
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiraq-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiraq-official/tiraq-official/output/github-contribution-grid-snake-dark.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/tiraq-official/tiraq-official/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
+
+</div>
+
+---
+
 ## <img src="https://slackmojis.com/emojis/21788-eagle_sunglasses/download" width="32" alt="" /> Beyond the Code
 
 ## <img src="https://slackmojis.com/emojis/85415-bunmusicq/download" width="35"/> Music 
