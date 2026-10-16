@@ -85,7 +85,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="./assets/senna_intheheartofbrazil.gif" width="200" alt="senna gif" />
+<img src="./assets/senna_intheheartofbrazil.gif" width="100" alt="senna gif" />
 </td>
 <td valign="top" width="50%">
 
