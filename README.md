@@ -68,7 +68,7 @@
 <table>
 <tr>
 <td valign="top" width="40%">
-<img src="https://i.gifer.com/Z23N.gif" width="300" alt="music gif" />
+<img src="https://i.gifer.com/Z23N.gif" width="250" alt="music gif" />
 </td>
 <td valign="top" width="60%">
 
